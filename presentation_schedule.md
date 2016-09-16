@@ -74,5 +74,6 @@ You may sign up for an OTHER date only with my permission.  Please mark your nam
 * Chris Corsi
 * Jennifer Zysk
 * Peter Schaldenbrand
+* Shawn Jackson
 
 ## Other (remember to email Prof Laboon!)
